@@ -21,9 +21,10 @@ body {
 
 .conteiner {
     max-width: 640px;
-    margin: 50 auto;
+    margin: 50px auto;
     background: #fff;
     padding: 20px;
+    border-radius: 10px;
 }
 
 form input, form label, form button {
@@ -58,4 +59,8 @@ form button:hover {
 
 form button:active {
     background: red;
+}
+.paragrafro-resultado {
+    background: #55ffbb;
+    padding: 10px;
 }
